@@ -1,0 +1,6 @@
+.idea
+.aws-sam
+HelloWorldFunction/build
+HelloWorldFunction/.gradle
+*.iml
+samconfig.toml
